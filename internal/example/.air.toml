@@ -5,7 +5,7 @@ tmp_dir = "tmp"
 [build]
   args_bin = []
   bin = "./tmp/go-hot-reload-example"
-  cmd = "go build -o ./tmp/go-hot-reload-example main.go && go run ../../gohot.go refresh"
+  cmd = "go build -o ./tmp/go-hot-reload-example main.go && gohot refresh"
   delay = 1000
   exclude_dir = ["assets", "tmp", "vendor", "testdata"]
   exclude_file = []

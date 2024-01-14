@@ -1,3 +1,3 @@
 run:
-	go run ../../gohot.go &
+	gohot &
 	air
