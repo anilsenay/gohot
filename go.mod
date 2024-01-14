@@ -1,4 +1,4 @@
-module github.com/anilsenay/go-hot-reload
+module github.com/anilsenay/gohot
 
 go 1.21.1
 

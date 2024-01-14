@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"os"
 
-	"github.com/anilsenay/go-hot-reload/pkg/hotreload"
+	"github.com/anilsenay/gohot/pkg/hotreload"
 )
 
 func main() {
